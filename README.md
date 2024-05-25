@@ -11,3 +11,5 @@ Hi Team,
 
      "python3 count_finder_script.py output/"
 
+   This script will open all the .txt files and count the number of urls, number of images in the content and save it as link_and_image_counts.csv
+
